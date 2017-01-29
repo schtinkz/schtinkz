@@ -1,0 +1,2 @@
+# schtinkz
+GitHub Pages
